@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+__pycache__/
+
+# Database
+*.db
+
+# Data files (optional, but usually good to ignore large data)
+*.xlsx
+*.csv
+
+# Images/Charts
+*.png
